@@ -1,0 +1,28 @@
+#body1{
+    background-color:skyblue;
+}
+
+#start_button{
+    font-size:18;
+}
+
+#status{
+    font-size:18;
+}
+
+#heading{
+    width:100%;
+    margin:0px;
+}
+
+#footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    background-color:grey;
+    font-weight: 200;
+    font-size:35.5px;
+    color:blue;
+    
+}
